@@ -1,4 +1,5 @@
 = Summary
 
 . link:README.adoc[Введение]
-. link:book/010-getting-started/010-0-getting-started.adoc[Краткие сведения о Python]
+. link:book/010-getting-started/010-0-getting-started.adoc[Знакомство с Python]
+. link:book/020-install-python/020-0-install-python.adoc[Установка и настройка Python]
