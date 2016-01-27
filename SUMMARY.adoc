@@ -3,5 +3,5 @@
 . link:README.adoc[Введение]
 . link:book/010-intro-python/010-0-intro-python.adoc[Знакомство с Python]
 . link:book/020-install-python/020-0-install-python.adoc[Установка и настройка Python]
-. link:book/040-intro-idle/030-0-intro-idle.adoc[Знакомство со средой разработки]
+. link:book/030-intro-idle/030-0-intro-idle.adoc[Знакомство со средой разработки]
 
