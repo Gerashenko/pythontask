@@ -7,5 +7,8 @@
 **Исходный код: 
 https://github.com/askras/pythontask[https://github.com/askras/pythontask]**
 
+**Собранная версия: 
+https://www.gitbook.com/book/askras/pythontask[https://www.gitbook.com/book/askras/pythontask]**
+
 **Распространяется под лицензией:
-http://opensource.org/licenses/Apache-2.0[Version 2.0]**
+http://opensource.org/licenses/Apache-2.0[Apache License, Version 2.0]**
