@@ -1,4 +1,4 @@
 = Summary
 
 . link:README.adoc[Введение]
-. link:chapters/chapter10/content.adoc[Краткие сведения о Python]
+. link:book/010-getting-started/010-0-getting-started.adoc[Краткие сведения о Python]
