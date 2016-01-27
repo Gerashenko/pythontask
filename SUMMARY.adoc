@@ -1,0 +1,4 @@
+= Summary
+
+. link:README.adoc[Введение]
+. link:chapters/chapter10/content.adoc[Краткие сведения о Python]
